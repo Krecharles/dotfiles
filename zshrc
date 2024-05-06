@@ -122,3 +122,5 @@ alias hgrep='history | grep'
 eval "$(fzf --zsh)"
 
 alias cat='bat'
+export EDITOR='nvim'
+
